@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "jpy_sandbox"
+  site-url: "https://fuzzyalej.github.io/jpy_sandbox"
+  description: "sandboxing is fun"
+  repo-branch: main
+  repo-url: "https://github.com/fuzzyalej/jpy_sandbox"
